@@ -15,11 +15,11 @@ export default function Projects() {
         image: "https://www.csoonline.com/wp-content/uploads/2023/06/eye-binary-abstract-100749562-orig.jpg?quality=50&strip=all&w=1024"
       },
       {
-        title: "Hand Gesture Control System",
+        title: "Gesture - Driven Volume and Brightness Control System",
         duration: "2 months",
         description: "OpenCV-based volume and brightness control using hand gestures.",
         tech: ["Python", "OpenCV"],
-        image: "https://static.vecteezy.com/system/resources/previews/000/206/049/non_2x/hand-gestures-vector.jpg"
+        image: "https://cdnassets.hw.net/43/ae/d4a3207f44259079ef8ba640d725/bixi-hand-laptop-resize.jpg"
       }
     ];
   

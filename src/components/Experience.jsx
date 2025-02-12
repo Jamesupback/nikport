@@ -3,33 +3,6 @@ import React from 'react';
 function Experience() {
   const experiences = [
     {
-      title: 'Bachelor of Technology in Computer Science',
-      company: 'College of Engineering, Cherthala, Alappuzha',
-      duration: '2021 – 2025 (Expected Graduation)',
-      details: [
-        'Current CGPA: 6.99',
-        'Relevant Coursework: Software Engineering, Data Structures, Algorithms, Mobile App Development, Database Management Systems',
-      ],
-    },
-    {
-      title: '12th Standard',
-      company: 'Govt Boys Higher Secondary School, Manjeri',
-      duration: '2019 – 2021',
-      details: [
-        'Kerala Board of Secondary Education',
-        'Percentage: 95.6%',
-      ],
-    },
-    {
-      title: '10th Standard',
-      company: 'Govt Boys Higher Secondary School, Manjeri',
-      duration: '2019',
-      details: [
-        'Kerala Board of Public Examination',
-        'Percentage: 93.2%',
-      ],
-    },
-    {
       title: 'Flutter Developer Intern',
       company: 'Edureka, Kochi, Ernakulam',
       duration: 'May 17, 2023 – May 31, 2023',
